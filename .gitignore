@@ -1,0 +1,8 @@
+# Learner history is private; only blank templates belong in this repository.
+**/progress.md
+**/sessions/*.md
+!**/sessions/session-template.md
+.interview-prep/
+.DS_Store
+.env
+.env.*

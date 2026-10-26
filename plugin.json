@@ -1,0 +1,31 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "interview-prep-plugin",
+  "version": "1.0.0",
+  "description": "Adaptive interview coaching with personalized courses and evidence-based progress.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Interview Prep Coach",
+        "shortDescription": "Adaptive interview preparation",
+        "longDescription": "Build long-term software engineering interview skills through a personalized course. Practice unfamiliar problems with progressive hints, exact-code review, spaced retrieval, and realistic mock interviews. Track independent performance separately from assisted learning across DSA, your chosen programming language, backend, databases, system design, and behavioral interviews. Imminent interviews can temporarily prioritize employer-provided topics. Learning state uses Markdown files in a filesystem-capable host; external notes integrations require separate setup. No personal learner history is included.",
+        "defaultPrompt": [
+          "Start my personalized interview-prep course.",
+          "Help me prepare for an interview within 72 hours.",
+          "Review my progress and choose my next cold-retrieval problem."
+        ],
+        "category": "Education & Research",
+        "logo": "assets/icon.png",
+        "composerIcon": "assets/icon.png",
+        "developerName": "Tyree Richardson"
+      },
+      "publication": {
+        "release_notes": "Initial release: adaptive course roadmap, progressive hints, cold-retrieval mastery, Markdown tracking, rapid interview preparation, and separate proficiency tracks."
+      }
+    }
+  },
+  "author": {
+    "name": "Tyree Richardson"
+  },
+  "license": "MIT"
+}
