@@ -53,6 +53,20 @@ Show a compact roadmap/dashboard with module, intended learning outcomes, color 
 
 Ask only for missing context that affects today's practice: preferred language, available time, target role, interview dates, and priorities. Record answers in progress.md; unknown details may remain unknown. Offer a sensible starting plan and begin without a lengthy intake. Record `Course orientation shown: Yes` only after actually presenting it to the learner.
 
+## Daily continuation and first-session questions
+
+Treat “Let’s begin the next day,” “continue my prep,” and similar requests as returning to an ongoing course. Read the latest saved session and progress before selecting work. Resume an unfinished problem when appropriate, otherwise advance to the next logged study session with due retrieval and the coaching brief. Count study days from recorded sessions, not calendar gaps; missed days do not erase progress. Distinguish “continue” within a session from a new study day. Checkpoint results and the resume point so a later chat can pick up from the files. If prior files are unavailable, explain the missing continuity instead of fabricating yesterday’s work.
+
+For a new learner, ask a small grouped set of questions before language-specific practice:
+
+1. “Which programming language would you prefer? C++ or Java are suggested options, and any language is welcome.”
+2. “Would you like to track progress and problems solved in an Obsidian vault, another notes location, or local Markdown files?”
+3. “How much time do you have today, and is there an upcoming interview or priority topic?”
+
+Reuse details already supplied. Ask only unanswered questions; remember the answers and do not repeat the intake each day. Do not default to Python or infer a language from a sample prompt. If the learner is undecided, keep reasoning language-neutral while helping them choose. Their existing language choice takes precedence over suggested options.
+
+Offer the notes choice once during onboarding; do not interrupt every practice session with it. If declined or skipped, keep local Markdown and record that choice as deferred/declined. If Obsidian is selected, ask for the vault/folder path and keep problems attempted, solved outcomes, assistance levels, progress, and review dates in the same Markdown tracking structure. Clarify what “solved” means: independent, assisted, or exposed—not just a total count. Selection authorizes setup discussion, not software installation; help with installation only if requested. Continue local tracking if setup is pending and explain whether any synchronization is actually available.
+
 ## Session-opening coaching brief
 
 Start every new practice session with a useful coaching brief before assigning a problem, including when the learner says “next day” or “begin today.” On first use, combine it with the course orientation rather than repeating two introductions. Do not restart the brief on every answer or “next problem” within the same session. If the learner asks to skip planning and start immediately, honor that request.
@@ -93,9 +107,9 @@ Distinguish a requested session budget from measured active practice. Do not cla
 
 ## Learning-state storage
 
-By default, maintain learning state in `progress.md`, `topic-map.md`, and `sessions/YYYY-MM-DD.md` beside this skill. Do not interrupt study sessions to ask about external note-taking apps.
+By default, maintain learning state in `progress.md`, `topic-map.md`, and `sessions/YYYY-MM-DD.md` beside this skill. Offer the one-time onboarding notes choice above, then do not repeat it during ordinary study sessions.
 
-If the learner explicitly requests Obsidian or another notes integration, configure it separately from practice. Use the selected vault/folder/notebook and available tools; installation requires an explicit setup request and required permissions. Preserve history and inspect destination conflicts before migration. Record a canonical learning-state-root pointer in progress.md at the skill location, then keep one authoritative set of notes. Read that pointer before resolving tracking files each session. Do not overwrite conflicting notes or claim unavailable integration/synchronization succeeded. If access fails, retain a clearly labeled local pending update for later reconciliation.
+If the learner selects Obsidian during onboarding or requests another notes integration, configure the chosen destination separately from practice. Use the selected vault/folder/notebook and available tools; installation requires an explicit setup request and required permissions. Preserve history and inspect destination conflicts before migration. Record a canonical learning-state-root pointer in progress.md at the skill location, then keep one authoritative set of notes. Read that pointer before resolving tracking files each session. Do not overwrite conflicting notes or claim unavailable integration/synchronization succeeded. If access fails, retain a clearly labeled local pending update for later reconciliation.
 
 ## Upcoming interview override
 

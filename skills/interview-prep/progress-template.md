@@ -13,7 +13,8 @@ No learner history recorded. All topics begin ⚪ until evidence is collected.
 
 ## Notes storage
 
-- Tracking choice: Local Markdown; external notes only on explicit request
+- Tracking preference asked: No
+- Tracking choice: Not selected; local Markdown while pending
 - Learning-state root: This skill folder
 - App / vault / notebook: Not selected
 - Setup status: Not requested
@@ -22,6 +23,9 @@ No learner history recorded. All topics begin ⚪ until evidence is collected.
 
 - Course orientation shown: No
 - Selected track: Not selected
+- Last study day/session number: None recorded
+- Last session date: None recorded
+- Resume point: Initial orientation
 - Current module: Not started
 - Current lesson/objective: Initial assessment
 - Topics introduced through teaching: None recorded

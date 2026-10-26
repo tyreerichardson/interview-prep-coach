@@ -41,15 +41,15 @@ See [OpenAI plugin packaging and local installation documentation](https://devel
 ## Start a session
 
 ```text
-Use $interview-prep to start my personalized course.
+Use $interview-prep. Let's begin the next day.
 ```
 
 ```text
-Use $interview-prep for a 45-minute DSA session in Python.
+Use $interview-prep. Start my course and ask about my language, notes, and goals.
 ```
 
 ```text
-Use $interview-prep for rapid prep for my Java interview tomorrow.
+Use $interview-prep. Continue from my last session.
 ```
 
 You can also ask to show the roadmap, review progress, switch language, give a hint, pause, or end a session.

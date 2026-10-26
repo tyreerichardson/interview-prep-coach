@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "interview-prep-plugin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Adaptive interview coaching with personalized courses and evidence-based progress.",
   "extensions": {
     "com.openai": {
@@ -10,9 +10,9 @@
         "shortDescription": "Adaptive interview preparation",
         "longDescription": "Build long-term software engineering interview skills through a personalized course. Practice unfamiliar problems with progressive hints, exact-code review, spaced retrieval, and realistic mock interviews. Track independent performance separately from assisted learning across DSA, your chosen programming language, backend, databases, system design, and behavioral interviews. Imminent interviews can temporarily prioritize employer-provided topics. Learning state uses Markdown files in a filesystem-capable host; external notes integrations require separate setup. No personal learner history is included.",
         "defaultPrompt": [
-          "Start my personalized interview-prep course.",
-          "Help me prepare for an interview within 72 hours.",
-          "Review my progress and choose my next cold-retrieval problem."
+          "Let's begin the next day.",
+          "Continue my interview prep from the last session.",
+          "Start my course and ask about my language, notes, and goals."
         ],
         "category": "Education & Research",
         "logo": "assets/icon.png",
@@ -20,7 +20,7 @@
         "developerName": "Tyree Richardson"
       },
       "publication": {
-        "release_notes": "Structured problem presentation, exact-line corrections, component review, complexity debrief, and conceptual checks; separates cued attempts, algorithm retrieval, and implementation assistance."
+        "release_notes": "Continuous daily sessions, return-and-resume starter prompts, one-time language and Obsidian/Markdown intake, and persistent resume-point tracking."
       }
     }
   },
