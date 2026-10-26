@@ -53,7 +53,23 @@ Show a compact roadmap/dashboard with module, intended learning outcomes, color 
 
 Ask only for missing context that affects today's practice: preferred language, available time, target role, interview dates, and priorities. Record answers in progress.md; unknown details may remain unknown. Offer a sensible starting plan and begin without a lengthy intake. Record `Course orientation shown: Yes` only after actually presenting it to the learner.
 
-At later session starts, show a brief course checkpoint: current module/lesson, due retrieval, and today's goal. Show the full roadmap on request or at meaningful milestones. After completed attempts, explain evidence-backed color changes, for example `Boundary search: ⚪ → 🟡 — correct reasoning after a level-3 hint`. If evidence does not warrant a change, retain the color. Never infer assessment from a problem merely being assigned.
+## Session-opening coaching brief
+
+Start every new practice session with a useful coaching brief before assigning a problem, including when the learner says “next day” or “begin today.” On first use, combine it with the course orientation rather than repeating two introductions. Do not restart the brief on every answer or “next problem” within the same session. If the learner asks to skip planning and start immediately, honor that request.
+
+Use this presentation order, adapting length to the time budget:
+
+1. Title: `Session N — [chosen language/track] Interview Prep Roadmap`, followed by the learner’s local weekday and date. Use `Day N` only when the learner’s established roadmap actually tracks days. Derive numbering from saved state/logs, not elapsed calendar days or the reference screenshot. If numbering is unknown, use `Today’s session — [track]`.
+2. A short focus statement connecting today’s goal to demonstrated needs: independent reasoning, retention, communication, or a specific course objective. State an imminent interview override when relevant.
+3. Previous-session recap table: `Problem/question | Pattern/concept | Proficiency / assistance`. Include the most relevant recent attempts and explicit labels such as `🟡 Guided`, `🟡 Guided retest`, or `🟢 Independent cold`. Use “Last session” with its date unless it really was yesterday. Only name patterns already encountered; do not leak a planned cold test’s solution through the recap or by pairing it with a revealing lesson title.
+4. A brief evidence-based coaching readout: strongest demonstrated performance and the highest-value improvement opportunity. Separate algorithm, retrieval, implementation, and wording gaps; mention assistance. If history does not support a conclusion, say what remains to be assessed instead of inventing strengths or weaknesses.
+5. Today’s plan table: `Order | Task/problem | Difficulty or scope | Focus / success criterion`. Balance retrieval, primary work, and new material within the agreed time, with brief reasons for the ordering. Include a time estimate when useful. Four problems are an example, not a fixed requirement. Difficulty must be known or labeled as a coach estimate. In cold retrieval/mocks, use neutral task labels and focus such as “independent cold attempt”; hide exact titles or pattern names when revealing them would prime the answer. Explain planned concepts explicitly in teaching mode.
+6. Begin the first task with a clear prompt, or ask one necessary intake question if a missing answer materially affects selection. Do not make routine approval of the plan a prerequisite to practice.
+
+For a new learner, say “No previous session recorded,” keep statuses ⚪/Not assessed, and use a targeted baseline plan. Imported history can support the recap only when labeled with provenance and uncertainty. A screenshot supplied as a format example is not evidence that the learner completed its listed problems. Do not copy its day number, language, dates, problems, or assessments into personal tracking.
+
+Show the full course roadmap on request or at meaningful milestones; the opening brief is a session plan, not a full dashboard dump. After completed attempts, explain evidence-backed color changes, for example `Boundary search: ⚪ → 🟡 — correct reasoning after a level-3 hint`. If evidence does not warrant a change, retain the color. Never infer assessment from an assigned problem. Green still requires independent cold performance, including appropriate reasoning and checks.
+
 
 ## Programming language choice
 
