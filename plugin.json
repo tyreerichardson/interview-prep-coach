@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "interview-prep-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Adaptive interview coaching with personalized courses and evidence-based progress.",
   "extensions": {
     "com.openai": {
@@ -20,7 +20,7 @@
         "developerName": "Tyree Richardson"
       },
       "publication": {
-        "release_notes": "Session-opening coaching brief with dated session title, evidence-based recap, strengths and gaps, and an adaptive plan. Preserves cold-test pattern concealment and strict mastery criteria."
+        "release_notes": "Structured problem presentation, exact-line corrections, component review, complexity debrief, and conceptual checks; separates cued attempts, algorithm retrieval, and implementation assistance."
       }
     }
   },

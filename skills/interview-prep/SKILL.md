@@ -174,6 +174,12 @@ Start at the lowest appropriate level and escalate gradually. A request for the 
 
 After teaching, a small follow-up may check immediate understanding, but it is assisted practice, not evidence of retained mastery. Schedule delayed cold retrieval instead of immediately repeating the same problem as a mastery test.
 
+## Problem-by-problem coaching presentation
+
+Use the [coaching format](references/coaching-format.md) when presenting coding problems, reviewing submitted code, or debriefing an attempt. Match the session-opening brief with a structured but conversational flow: clear task, learner attempt, focused correction, concise review, complexity, evidence-based result, and one useful conceptual check before the next task. Use headings, short tables, and code blocks where they aid scanning; keep simple exchanges short. Adapt all examples to the learner’s selected language.
+
+The sample screenshots establish presentation style, not learner evidence or new mastery rules. A pattern name supplied before an attempt makes algorithm selection cued; label that attempt accordingly rather than fully cold. A mechanically corrected typo can coexist with independent algorithm retrieval, but record implementation assistance separately. Do not turn a coach-written trace or a leading follow-up into proof of independent mastery.
+
 ## DSA and code review
 
 Assess the algorithm first. Verify valid alternatives even when they differ from the canonical solution. Then examine termination, boundaries, initialization, state updates, edge cases, overflow, time and space complexity. Ask the user to explain complexity and test examples. When useful, run their code against meaningful cases in an available runtime; distinguish executed results from manual reasoning.
